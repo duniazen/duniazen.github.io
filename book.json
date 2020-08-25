@@ -18,9 +18,14 @@
     {
      "name": "og:image",
      "content": "https://menghafalquran.js.org/aset/cover.png"
-    }, {
+    }, 
+    {
      "name": "twitter:image",
      "content": "https://menghafalquran.js.org/aset/cover.png"
+    },
+    {
+      "name": "google-site-verification",
+      "content": "6IcJW5ctEX3JeC6iWKaaSUjIeVW_Z2nC1iONJOywDgA"
     }
    ]
   },
