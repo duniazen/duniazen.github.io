@@ -1,0 +1,35 @@
+{
+ "plugins": [
+  "ga",
+  "disqus",
+  "meta",
+  "sitemap",
+  "auto-scroll-table"
+ ],
+ "pluginsConfig": {
+  "ga": {
+   "token": "UA-60792127-5"
+  },
+  "disqus": {
+   "shortName": "menghafalquran"
+  },
+  "meta": {
+   "data": [
+    {
+     "name": "og:image",
+     "content": "https://menghafalquran.js.org/aset/cover.png"
+    }, {
+     "name": "twitter:image",
+     "content": "https://menghafalquran.js.org/aset/cover.png"
+    }
+   ]
+  },
+  "sitemap": {
+   "hostname": "https://duniazen.github.io/"
+  }
+ },
+ "lunr": {
+  "maxIndexSize": 1000000000
+ },
+ "title": "Dunia Zen"
+}
