@@ -1,0 +1,2 @@
+# Tangguh menghadapi apapun
+
